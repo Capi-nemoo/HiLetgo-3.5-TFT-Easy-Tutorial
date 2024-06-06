@@ -1,0 +1,1894 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="219.99998"
+   height="300"
+   viewBox="0 0 58.208328 79.375"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient6">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       id="swatch2">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(1.4177139,-32.87346)">
+    <g
+       id="g299">
+      <g
+         id="g13-2"
+         transform="translate(-1.2313604,36.695203)">
+        <g
+           id="g300">
+          <rect
+             style="fill:#0080a3;fill-opacity:1;stroke:none;stroke-width:0.00100766"
+             id="rect1"
+             width="59.427906"
+             height="79.375"
+             x="-2.2524688"
+             y="-4.053967" />
+          <circle
+             style="fill:#e3dbdb;fill-opacity:1;stroke:none;stroke-width:0.003"
+             id="path303-8"
+             cx="53.737392"
+             cy="-1.4081351"
+             r="1.3229166" />
+          <circle
+             style="fill:#e3dbdb;fill-opacity:1;stroke:none;stroke-width:0.003"
+             id="path303-0"
+             cx="0.054805934"
+             cy="73.462593"
+             r="1.3229166" />
+          <circle
+             style="fill:#e3dbdb;fill-opacity:1;stroke:none;stroke-width:0.003"
+             id="path303-1"
+             cx="55.617306"
+             cy="73.462593"
+             r="1.3229166" />
+        </g>
+      </g>
+    </g>
+    <rect
+       id="upper connector bgnd"
+       x="2.1105433"
+       y="33.946865"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector35pin"
+       x="2.3751364"
+       y="34.211449"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="upper connector top inset"
+       x="2.3751364"
+       y="34.211449"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="upper connector bottom inset"
+       x="2.3751364"
+       y="34.825638"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="upper connector left inset"
+       d="m 2.375136,34.211452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="upper connector right inset"
+       d="m 3.186158,34.211452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect1-7"
+       x="4.6505442"
+       y="33.946865"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector34pin"
+       x="4.9151354"
+       y="34.211449"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect2"
+       x="4.9151354"
+       y="34.211449"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect3"
+       x="4.9151354"
+       y="34.825638"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path3"
+       d="m 4.915136,34.211452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path4"
+       d="m 5.726158,34.211452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect4"
+       x="7.1905451"
+       y="33.946865"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector33pin"
+       x="7.4551363"
+       y="34.211449"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect5"
+       x="7.4551363"
+       y="34.211449"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect6"
+       x="7.4551363"
+       y="34.825638"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path6"
+       d="m 7.455136,34.211452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path7"
+       d="m 8.266158,34.211452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect7"
+       x="9.7305441"
+       y="33.946865"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector32pin"
+       x="9.9951353"
+       y="34.211449"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect8"
+       x="9.9951353"
+       y="34.211449"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect9"
+       x="9.9951353"
+       y="34.825638"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path9"
+       d="m 9.995136,34.211452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path10"
+       d="m 10.806158,34.211452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect10"
+       x="12.270543"
+       y="33.946865"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector31pin"
+       x="12.535134"
+       y="34.211449"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect11"
+       x="12.535134"
+       y="34.211449"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect12"
+       x="12.535134"
+       y="34.825638"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path12"
+       d="m 12.535136,34.211452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path13"
+       d="m 13.346158,34.211452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect13"
+       x="14.810544"
+       y="33.946865"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector30pin"
+       x="15.075135"
+       y="34.211449"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect14"
+       x="15.075135"
+       y="34.211449"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect15"
+       x="15.075135"
+       y="34.825638"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path15"
+       d="m 15.075136,34.211452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path16"
+       d="m 15.886158,34.211452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect16"
+       x="17.350544"
+       y="33.946865"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector29pin"
+       x="17.615135"
+       y="34.211449"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect17"
+       x="17.615135"
+       y="34.211449"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect18"
+       x="17.615135"
+       y="34.825638"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path18"
+       d="m 17.615136,34.211452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path19"
+       d="m 18.426158,34.211452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect19"
+       x="19.890541"
+       y="33.946865"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector28pin"
+       x="20.155136"
+       y="34.211449"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect20"
+       x="20.155136"
+       y="34.211449"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect21"
+       x="20.155136"
+       y="34.825638"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path21"
+       d="m 20.155136,34.211452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path22"
+       d="m 20.966158,34.211452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect22"
+       x="22.430542"
+       y="33.946865"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector27pin"
+       x="22.695133"
+       y="34.211449"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect23"
+       x="22.695133"
+       y="34.211449"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect24"
+       x="22.695133"
+       y="34.825638"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path24"
+       d="m 22.695136,34.211452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path25"
+       d="m 23.506285,34.211452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect25"
+       x="24.970592"
+       y="33.946865"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector26pin"
+       x="25.235008"
+       y="34.211449"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect26"
+       x="25.235008"
+       y="34.211449"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect27"
+       x="25.235008"
+       y="34.825638"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path27"
+       d="m 25.235009,34.211452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path28"
+       d="m 26.046285,34.211452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect28"
+       x="27.510593"
+       y="33.946865"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector25pin"
+       x="27.775009"
+       y="34.211449"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect29"
+       x="27.775009"
+       y="34.211449"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect30"
+       x="27.775009"
+       y="34.825638"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path30"
+       d="m 27.775009,34.211452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path31"
+       d="m 28.586285,34.211452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect31"
+       x="30.050594"
+       y="33.946865"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector24pin"
+       x="30.31501"
+       y="34.211449"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect32"
+       x="30.31501"
+       y="34.211449"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect33"
+       x="30.31501"
+       y="34.825638"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path33"
+       d="m 30.315009,34.211452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path34"
+       d="m 31.126285,34.211452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect34"
+       x="32.590595"
+       y="33.946865"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector23pin"
+       x="32.855007"
+       y="34.211449"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect35"
+       x="32.855007"
+       y="34.211449"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect36"
+       x="32.855007"
+       y="34.825638"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path36"
+       d="m 32.855009,34.211452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path37"
+       d="m 33.666285,34.211452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect37"
+       x="35.130592"
+       y="33.946865"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector22pin"
+       x="35.395008"
+       y="34.211449"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect38"
+       x="35.395008"
+       y="34.211449"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect39"
+       x="35.395008"
+       y="34.825638"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path39"
+       d="m 35.395009,34.211452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path40"
+       d="m 36.206285,34.211452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect40"
+       x="37.670593"
+       y="33.946865"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector21pin"
+       x="37.935009"
+       y="34.211449"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect41"
+       x="37.935009"
+       y="34.211449"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect42"
+       x="37.935009"
+       y="34.825638"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path42"
+       d="m 37.935009,34.211452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path43"
+       d="m 38.746285,34.211452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect43"
+       x="40.210594"
+       y="33.946865"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector20pin"
+       x="40.47501"
+       y="34.211449"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect44"
+       x="40.47501"
+       y="34.211449"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect45"
+       x="40.47501"
+       y="34.825638"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path45"
+       d="m 40.475009,34.211452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path46"
+       d="m 41.286285,34.211452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect46"
+       x="42.750595"
+       y="33.946865"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector19pin"
+       x="43.015007"
+       y="34.211449"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect47"
+       x="43.015007"
+       y="34.211449"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect48"
+       x="43.015007"
+       y="34.825638"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path48"
+       d="m 43.015009,34.211452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path49"
+       d="m 43.826285,34.211452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect49"
+       x="45.290592"
+       y="33.946865"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector18pin"
+       x="45.555012"
+       y="34.211449"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect50"
+       x="45.555012"
+       y="34.211449"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect51"
+       x="45.555012"
+       y="34.825638"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path51"
+       d="m 45.555009,34.211452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path52"
+       d="m 46.366285,34.211452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="lower connector bgnd"
+       x="2.1105433"
+       y="36.486866"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector0pin"
+       x="2.3751364"
+       y="36.75145"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="lower connector top inset"
+       x="2.3751364"
+       y="36.75145"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="lower connector bottom inset"
+       x="2.3751364"
+       y="37.365635"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="lower connector left inset"
+       d="m 2.375136,36.751452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="lower connector right inset"
+       d="m 3.186158,36.751452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect52"
+       x="4.6505442"
+       y="36.486866"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector1pin"
+       x="4.9151354"
+       y="36.75145"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect53"
+       x="4.9151354"
+       y="36.75145"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect54"
+       x="4.9151354"
+       y="37.365635"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path54"
+       d="m 4.915136,36.751452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path55"
+       d="m 5.726158,36.751452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect55"
+       x="7.1905451"
+       y="36.486866"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector2pin"
+       x="7.4551363"
+       y="36.75145"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect56"
+       x="7.4551363"
+       y="36.75145"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect57"
+       x="7.4551363"
+       y="37.365635"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path57"
+       d="m 7.455136,36.751452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path58"
+       d="m 8.266158,36.751452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect58"
+       x="9.7305441"
+       y="36.486866"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector3pin"
+       x="9.9951353"
+       y="36.75145"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect59"
+       x="9.9951353"
+       y="36.75145"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect60"
+       x="9.9951353"
+       y="37.365635"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path60"
+       d="m 9.995136,36.751452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path61"
+       d="m 10.806158,36.751452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect61"
+       x="12.270543"
+       y="36.486866"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector4pin"
+       x="12.535134"
+       y="36.75145"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect62"
+       x="12.535134"
+       y="36.75145"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect63"
+       x="12.535134"
+       y="37.365635"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path63"
+       d="m 12.535136,36.751452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path64"
+       d="m 13.346158,36.751452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect64"
+       x="14.810544"
+       y="36.486866"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector5pin"
+       x="15.075135"
+       y="36.75145"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect65"
+       x="15.075135"
+       y="36.75145"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect66"
+       x="15.075135"
+       y="37.365635"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path66"
+       d="m 15.075136,36.751452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path67"
+       d="m 15.886158,36.751452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect67"
+       x="17.350544"
+       y="36.486866"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector6pin"
+       x="17.615135"
+       y="36.75145"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect68"
+       x="17.615135"
+       y="36.75145"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect69"
+       x="17.615135"
+       y="37.365635"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path69"
+       d="m 17.615136,36.751452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path70"
+       d="m 18.426158,36.751452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect70"
+       x="19.890541"
+       y="36.486866"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector7pin"
+       x="20.155136"
+       y="36.75145"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect71"
+       x="20.155136"
+       y="36.75145"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect72"
+       x="20.155136"
+       y="37.365635"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path72"
+       d="m 20.155136,36.751452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path73"
+       d="m 20.966158,36.751452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect73"
+       x="22.430542"
+       y="36.486866"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector8pin"
+       x="22.695133"
+       y="36.75145"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect74"
+       x="22.695133"
+       y="36.75145"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect75"
+       x="22.695133"
+       y="37.365635"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path75"
+       d="m 22.695136,36.751452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path76"
+       d="m 23.506285,36.751452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect76"
+       x="24.970592"
+       y="36.486866"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector9pin"
+       x="25.235008"
+       y="36.75145"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect77"
+       x="25.235008"
+       y="36.75145"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect78"
+       x="25.235008"
+       y="37.365635"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path78"
+       d="m 25.235009,36.751452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path79"
+       d="m 26.046285,36.751452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect79"
+       x="27.510593"
+       y="36.486866"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector10pin"
+       x="27.775009"
+       y="36.75145"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect80"
+       x="27.775009"
+       y="36.75145"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect81"
+       x="27.775009"
+       y="37.365635"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path81"
+       d="m 27.775009,36.751452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path82"
+       d="m 28.586285,36.751452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect82"
+       x="30.050594"
+       y="36.486866"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector11pin"
+       x="30.31501"
+       y="36.75145"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect83"
+       x="30.31501"
+       y="36.75145"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect84"
+       x="30.31501"
+       y="37.365635"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path84"
+       d="m 30.315009,36.751452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path85"
+       d="m 31.126285,36.751452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect85"
+       x="32.590595"
+       y="36.486866"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector12pin"
+       x="32.855007"
+       y="36.75145"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect86"
+       x="32.855007"
+       y="36.75145"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect87"
+       x="32.855007"
+       y="37.365635"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path87"
+       d="m 32.855009,36.751452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path88"
+       d="m 33.666285,36.751452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect88"
+       x="35.130592"
+       y="36.486866"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector13pin"
+       x="35.395008"
+       y="36.75145"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect89"
+       x="35.395008"
+       y="36.75145"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect90"
+       x="35.395008"
+       y="37.365635"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path90"
+       d="m 35.395009,36.751452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path91"
+       d="m 36.206285,36.751452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect91"
+       x="37.670593"
+       y="36.486866"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector14pin"
+       x="37.935009"
+       y="36.75145"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect92"
+       x="37.935009"
+       y="36.75145"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect93"
+       x="37.935009"
+       y="37.365635"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path93"
+       d="m 37.935009,36.751452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path94"
+       d="m 38.746285,36.751452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect94"
+       x="40.210594"
+       y="36.486866"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector15pin"
+       x="40.47501"
+       y="36.75145"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect95"
+       x="40.47501"
+       y="36.75145"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect96"
+       x="40.47501"
+       y="37.365635"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path96"
+       d="m 40.475009,36.751452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path97"
+       d="m 41.286285,36.751452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect97"
+       x="42.750595"
+       y="36.486866"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector16pin"
+       x="43.015007"
+       y="36.75145"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect98"
+       x="43.015007"
+       y="36.75145"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect99"
+       x="43.015007"
+       y="37.365635"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path99"
+       d="m 43.015009,36.751452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path100"
+       d="m 43.826285,36.751452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       id="rect100"
+       x="45.290592"
+       y="36.486866"
+       width="1.3402028"
+       height="1.3402028"
+       stroke="none"
+       stroke-width="0"
+       fill="#141414" />
+    <rect
+       id="connector17pin"
+       x="45.555012"
+       y="36.75145"
+       width="0.81103623"
+       height="0.81103623"
+       stroke="none"
+       stroke-width="0"
+       fill="#8c8663" />
+    <rect
+       id="rect101"
+       x="45.555012"
+       y="36.75145"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#b8af82" />
+    <rect
+       id="rect102"
+       x="45.555012"
+       y="37.365635"
+       width="0.81103623"
+       height="0.19685"
+       stroke="none"
+       stroke-width="0"
+       fill="#5e5b43" />
+    <path
+       id="path102"
+       d="m 45.555009,36.751452 v 0.811036 l 0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <path
+       id="path103"
+       d="m 46.366285,36.751452 v 0.811036 l -0.19685,-0.19685 v -0.417336 z"
+       stroke="none"
+       stroke-width="0"
+       fill="#9a916c" />
+    <rect
+       style="fill:#241c1c;fill-opacity:1;stroke:none;stroke-width:0.00299307"
+       id="rect300"
+       width="52.329746"
+       height="68.433418"
+       x="0.59500414"
+       y="40.578735"
+       ry="3.7813325e-07" />
+    <rect
+       style="fill:#e3dbdb;fill-opacity:1;stroke:none;stroke-width:0.003"
+       id="rect301"
+       width="51.912708"
+       height="67.794411"
+       x="0.81698924"
+       y="41.040466"
+       ry="3.7834383e-07" />
+    <circle
+       style="fill:#e3dbdb;fill-opacity:1;stroke:none;stroke-width:0.003"
+       id="path303"
+       cx="-1.4291679"
+       cy="35.287067"
+       r="1.3229166" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.00299335"
+       id="rect305"
+       width="50.99979"
+       height="66.910324"
+       x="1.291427"
+       y="41.498779"
+       ry="3.7756962e-07" />
+    <rect
+       style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.003"
+       id="rect306"
+       width="50.99979"
+       height="2.3313177"
+       x="1.291427"
+       y="106.07779"
+       ry="3.7834383e-07" />
+    <rect
+       style="fill:#806600;fill-opacity:1;stroke:none;stroke-width:0.00253615"
+       id="rect307"
+       width="36.269958"
+       height="1.0344808"
+       x="8.3190784"
+       y="107.80039"
+       ry="2.4593587e-07" />
+    <rect
+       style="fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:0.00171031"
+       id="rect309"
+       width="6.267066"
+       height="0.51724446"
+       x="44.589035"
+       y="108.31763"
+       ry="5.8117905e-07" />
+    <rect
+       style="fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:0.00188807"
+       id="rect309-8"
+       width="5.6095095"
+       height="0.7042371"
+       x="2.709569"
+       y="108.13063"
+       ry="7.9128517e-07" />
+    <rect
+       style="fill:#916f6f;fill-opacity:1;stroke:none;stroke-width:0.003"
+       id="rect310"
+       width="19.421722"
+       height="2.1103134"
+       x="17.514488"
+       y="109.3704"
+       ry="1.7881393e-06" />
+    <rect
+       style="fill:#6c5353;fill-opacity:1;stroke:none;stroke-width:0.003"
+       id="rect311"
+       width="18.045078"
+       height="1.1857579"
+       x="18.172304"
+       y="109.86311"
+       ry="1.7881393e-06" />
+    <rect
+       style="fill:#c8b7b7;fill-opacity:1;stroke:none;stroke-width:0.0021739"
+       id="rect312"
+       width="4.164711"
+       height="0.97016549"
+       x="25.112488"
+       y="109.97091"
+       ry="1.4630231e-06" />
+    <rect
+       style="fill:#e3dbdb;fill-opacity:1;stroke:none;stroke-width:0.003"
+       id="rect313"
+       width="2.2313807"
+       height="0.54976046"
+       x="26.019867"
+       y="110.17572"
+       ry="1.7881393e-06" />
+  </g>
+</svg>
