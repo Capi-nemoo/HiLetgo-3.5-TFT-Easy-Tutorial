@@ -1,0 +1,1939 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="219.99998"
+   height="300"
+   viewBox="0 0 58.208328 79.375"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient6">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       id="swatch2">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(1.4177139,-32.87346)">
+    <g
+       id="g299">
+      <g
+         id="g13-2"
+         transform="translate(-1.2313604,36.695203)">
+        <g
+           id="g300">
+          <rect
+             style="fill:#0080a3;fill-opacity:1;stroke:none;stroke-width:0.00100766"
+             id="rect1"
+             width="58.208332"
+             height="79.375"
+             x="-2.2642524"
+             y="32.641235"
+             transform="translate(1.2313603,-36.695203)" />
+          <g
+             id="g13"
+             transform="translate(-0.1077965,-3.9604672)">
+            <rect
+               id="connector0pin"
+               x="5.1808763"
+               y="2.5523331"
+               fill="none"
+               width="0.98473763"
+               height="0.98473763"
+               style="stroke-width:0.00254" />
+            <rect
+               id="connector0terminal"
+               x="5.2916665"
+               y="2.6458333"
+               fill="none"
+               width="0.76351637"
+               height="0.79809338"
+               style="stroke-width:0.00254" />
+            <rect
+               x="5.2680268"
+               y="2.6394799"
+               fill="#8d8c8c"
+               width="0.81079596"
+               height="0.81079596"
+               id="rect1-1"
+               style="stroke-width:0.00254" />
+            <rect
+               x="5.4649034"
+               y="2.8363583"
+               fill="#8c8663"
+               width="0.41704005"
+               height="0.41704005"
+               id="rect2"
+               style="stroke-width:0.00254" />
+            <polygon
+               fill="#b8af82"
+               points="417.974,417.974 582.025,417.974 659.674,340.463 340.463,340.463 "
+               id="polygon2"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#80795b"
+               points="582.025,417.974 659.674,340.463 659.674,659.674 582.025,582.025 "
+               id="polygon3"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#5e5b43"
+               points="582.025,582.025 659.674,659.674 340.463,659.674 417.974,582.025 "
+               id="polygon4"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#9a916c"
+               points="417.974,417.974 417.974,582.025 340.463,659.674 340.463,340.463 "
+               id="polygon5"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <rect
+               id="connector1pin"
+               x="7.7208695"
+               y="2.5523331"
+               fill="none"
+               width="0.98473763"
+               height="0.98473763"
+               style="stroke-width:0.00254" />
+            <rect
+               id="connector1terminal"
+               x="7.8316636"
+               y="2.6458333"
+               fill="none"
+               width="0.76351637"
+               height="0.79809338"
+               style="stroke-width:0.00254" />
+            <rect
+               x="7.8080163"
+               y="2.6394799"
+               fill="#8d8c8c"
+               width="0.81079596"
+               height="0.81079596"
+               id="rect6"
+               style="stroke-width:0.00254" />
+            <rect
+               x="8.0048933"
+               y="2.8363583"
+               fill="#8c8663"
+               width="0.41704005"
+               height="0.41704005"
+               id="rect7"
+               style="stroke-width:0.00254" />
+            <polygon
+               fill="#b8af82"
+               points="1417.97,417.974 1582.03,417.974 1659.67,340.463 1340.46,340.463 "
+               id="polygon7"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#80795b"
+               points="1582.03,417.974 1659.67,340.463 1659.67,659.674 1582.03,582.025 "
+               id="polygon8"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#5e5b43"
+               points="1582.03,582.025 1659.67,659.674 1340.46,659.674 1417.97,582.025 "
+               id="polygon9"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#9a916c"
+               points="1417.97,417.974 1417.97,582.025 1340.46,659.674 1340.46,340.463 "
+               id="polygon10"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <rect
+               id="connector2pin"
+               x="10.260871"
+               y="2.5523331"
+               fill="none"
+               width="0.98473763"
+               height="0.98473763"
+               style="stroke-width:0.00254" />
+            <rect
+               id="connector2terminal"
+               x="10.371665"
+               y="2.6458333"
+               fill="none"
+               width="0.76351637"
+               height="0.79809338"
+               style="stroke-width:0.00254" />
+            <rect
+               x="10.348018"
+               y="2.6394799"
+               fill="#8d8c8c"
+               width="0.81079596"
+               height="0.81079596"
+               id="rect11"
+               style="stroke-width:0.00254" />
+            <rect
+               x="10.544894"
+               y="2.8363583"
+               fill="#8c8663"
+               width="0.41704005"
+               height="0.41704005"
+               id="rect12"
+               style="stroke-width:0.00254" />
+            <polygon
+               fill="#b8af82"
+               points="2417.97,417.974 2582.03,417.974 2659.67,340.463 2340.46,340.463 "
+               id="polygon12"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#80795b"
+               points="2582.03,417.974 2659.67,340.463 2659.67,659.674 2582.03,582.025 "
+               id="polygon13"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#5e5b43"
+               points="2582.03,582.025 2659.67,659.674 2340.46,659.674 2417.97,582.025 "
+               id="polygon14"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#9a916c"
+               points="2417.97,417.974 2417.97,582.025 2340.46,659.674 2340.46,340.463 "
+               id="polygon15"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <rect
+               id="connector3pin"
+               x="12.800872"
+               y="2.5523331"
+               fill="none"
+               width="0.98473763"
+               height="0.98473763"
+               style="stroke-width:0.00254" />
+            <rect
+               id="connector3terminal"
+               x="12.911666"
+               y="2.6458333"
+               fill="none"
+               width="0.76351637"
+               height="0.79809338"
+               style="stroke-width:0.00254" />
+            <rect
+               x="12.888019"
+               y="2.6394799"
+               fill="#8d8c8c"
+               width="0.81079596"
+               height="0.81079596"
+               id="rect16"
+               style="stroke-width:0.00254" />
+            <rect
+               x="13.084891"
+               y="2.8363583"
+               fill="#8c8663"
+               width="0.41704005"
+               height="0.41704005"
+               id="rect17"
+               style="stroke-width:0.00254" />
+            <polygon
+               fill="#b8af82"
+               points="3417.97,417.974 3582.03,417.974 3659.67,340.463 3340.46,340.463 "
+               id="polygon17"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#80795b"
+               points="3582.03,417.974 3659.67,340.463 3659.67,659.674 3582.03,582.025 "
+               id="polygon18"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#5e5b43"
+               points="3582.03,582.025 3659.67,659.674 3340.46,659.674 3417.97,582.025 "
+               id="polygon19"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#9a916c"
+               points="3417.97,417.974 3417.97,582.025 3340.46,659.674 3340.46,340.463 "
+               id="polygon20"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <rect
+               id="connector4pin"
+               x="15.340869"
+               y="2.5523331"
+               fill="none"
+               width="0.98473763"
+               height="0.98473763"
+               style="stroke-width:0.00254" />
+            <rect
+               id="connector4terminal"
+               x="15.451667"
+               y="2.6458333"
+               fill="none"
+               width="0.76351637"
+               height="0.79809338"
+               style="stroke-width:0.00254" />
+            <rect
+               x="15.42802"
+               y="2.6394799"
+               fill="#8d8c8c"
+               width="0.81079596"
+               height="0.81079596"
+               id="rect21"
+               style="stroke-width:0.00254" />
+            <rect
+               x="15.624892"
+               y="2.8363583"
+               fill="#8c8663"
+               width="0.41704005"
+               height="0.41704005"
+               id="rect22"
+               style="stroke-width:0.00254" />
+            <polygon
+               fill="#b8af82"
+               points="4417.97,417.974 4582.02,417.974 4659.67,340.463 4340.46,340.463 "
+               id="polygon22"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#80795b"
+               points="4582.02,417.974 4659.67,340.463 4659.67,659.674 4582.02,582.025 "
+               id="polygon23"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#5e5b43"
+               points="4582.02,582.025 4659.67,659.674 4340.46,659.674 4417.97,582.025 "
+               id="polygon24"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#9a916c"
+               points="4417.97,417.974 4417.97,582.025 4340.46,659.674 4340.46,340.463 "
+               id="polygon25"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <rect
+               id="connector5pin"
+               x="17.880869"
+               y="2.5523331"
+               fill="none"
+               width="0.98473763"
+               height="0.98473763"
+               style="stroke-width:0.00254" />
+            <rect
+               id="connector5terminal"
+               x="17.991663"
+               y="2.6458333"
+               fill="none"
+               width="0.76351637"
+               height="0.79809338"
+               style="stroke-width:0.00254" />
+            <rect
+               x="17.968016"
+               y="2.6394799"
+               fill="#8d8c8c"
+               width="0.81079596"
+               height="0.81079596"
+               id="rect26"
+               style="stroke-width:0.00254" />
+            <rect
+               x="18.164892"
+               y="2.8363583"
+               fill="#8c8663"
+               width="0.41704005"
+               height="0.41704005"
+               id="rect27"
+               style="stroke-width:0.00254" />
+            <polygon
+               fill="#b8af82"
+               points="5417.97,417.974 5582.02,417.974 5659.67,340.463 5340.46,340.463 "
+               id="polygon27"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#80795b"
+               points="5582.02,417.974 5659.67,340.463 5659.67,659.674 5582.02,582.025 "
+               id="polygon28"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#5e5b43"
+               points="5582.02,582.025 5659.67,659.674 5340.46,659.674 5417.97,582.025 "
+               id="polygon29"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#9a916c"
+               points="5417.97,417.974 5417.97,582.025 5340.46,659.674 5340.46,340.463 "
+               id="polygon30"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <rect
+               id="connector6pin"
+               x="20.42087"
+               y="2.5523331"
+               fill="none"
+               width="0.98473763"
+               height="0.98473763"
+               style="stroke-width:0.00254" />
+            <rect
+               id="connector6terminal"
+               x="20.531664"
+               y="2.6458333"
+               fill="none"
+               width="0.76351637"
+               height="0.79809338"
+               style="stroke-width:0.00254" />
+            <rect
+               x="20.508017"
+               y="2.6394799"
+               fill="#8d8c8c"
+               width="0.81079596"
+               height="0.81079596"
+               id="rect31"
+               style="stroke-width:0.00254" />
+            <rect
+               x="20.704893"
+               y="2.8363583"
+               fill="#8c8663"
+               width="0.41704005"
+               height="0.41704005"
+               id="rect32"
+               style="stroke-width:0.00254" />
+            <polygon
+               fill="#b8af82"
+               points="6417.97,417.974 6582.02,417.974 6659.67,340.463 6340.46,340.463 "
+               id="polygon32"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#80795b"
+               points="6582.02,417.974 6659.67,340.463 6659.67,659.674 6582.02,582.025 "
+               id="polygon33"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#5e5b43"
+               points="6582.02,582.025 6659.67,659.674 6340.46,659.674 6417.97,582.025 "
+               id="polygon34"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#9a916c"
+               points="6417.97,417.974 6417.97,582.025 6340.46,659.674 6340.46,340.463 "
+               id="polygon35"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <rect
+               id="connector7pin"
+               x="22.960871"
+               y="2.5523331"
+               fill="none"
+               width="0.98473763"
+               height="0.98473763"
+               style="stroke-width:0.00254" />
+            <rect
+               id="connector7terminal"
+               x="23.071665"
+               y="2.6458333"
+               fill="none"
+               width="0.76351637"
+               height="0.79809338"
+               style="stroke-width:0.00254" />
+            <rect
+               x="23.048018"
+               y="2.6394799"
+               fill="#8d8c8c"
+               width="0.81079596"
+               height="0.81079596"
+               id="rect36"
+               style="stroke-width:0.00254" />
+            <rect
+               x="23.244894"
+               y="2.8363583"
+               fill="#8c8663"
+               width="0.41704005"
+               height="0.41704005"
+               id="rect37"
+               style="stroke-width:0.00254" />
+            <polygon
+               fill="#b8af82"
+               points="7417.97,417.974 7582.02,417.974 7659.67,340.463 7340.46,340.463 "
+               id="polygon37"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#80795b"
+               points="7582.02,417.974 7659.67,340.463 7659.67,659.674 7582.02,582.025 "
+               id="polygon38"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#5e5b43"
+               points="7582.02,582.025 7659.67,659.674 7340.46,659.674 7417.97,582.025 "
+               id="polygon39"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#9a916c"
+               points="7417.97,417.974 7417.97,582.025 7340.46,659.674 7340.46,340.463 "
+               id="polygon40"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <rect
+               id="connector8pin"
+               x="25.500872"
+               y="2.5523331"
+               fill="none"
+               width="0.98473763"
+               height="0.98473763"
+               style="stroke-width:0.00254" />
+            <rect
+               id="connector8terminal"
+               x="25.611662"
+               y="2.6458333"
+               fill="none"
+               width="0.76351637"
+               height="0.79809338"
+               style="stroke-width:0.00254" />
+            <rect
+               x="25.588018"
+               y="2.6394799"
+               fill="#8d8c8c"
+               width="0.81079596"
+               height="0.81079596"
+               id="rect41"
+               style="stroke-width:0.00254" />
+            <rect
+               x="25.784891"
+               y="2.8363583"
+               fill="#8c8663"
+               width="0.41704005"
+               height="0.41704005"
+               id="rect42"
+               style="stroke-width:0.00254" />
+            <polygon
+               fill="#b8af82"
+               points="8417.97,417.974 8582.02,417.974 8659.67,340.463 8340.46,340.463 "
+               id="polygon42"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#80795b"
+               points="8582.02,417.974 8659.67,340.463 8659.67,659.674 8582.02,582.025 "
+               id="polygon43"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#5e5b43"
+               points="8582.02,582.025 8659.67,659.674 8340.46,659.674 8417.97,582.025 "
+               id="polygon44"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#9a916c"
+               points="8417.97,417.974 8417.97,582.025 8340.46,659.674 8340.46,340.463 "
+               id="polygon45"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <rect
+               id="connector9pin"
+               x="28.040869"
+               y="2.5523331"
+               fill="none"
+               width="0.98473763"
+               height="0.98473763"
+               style="stroke-width:0.00254" />
+            <rect
+               id="connector9terminal"
+               x="28.151663"
+               y="2.6458333"
+               fill="none"
+               width="0.76351637"
+               height="0.79809338"
+               style="stroke-width:0.00254" />
+            <rect
+               x="28.128016"
+               y="2.6394799"
+               fill="#8d8c8c"
+               width="0.81079596"
+               height="0.81079596"
+               id="rect46"
+               style="stroke-width:0.00254" />
+            <rect
+               x="28.324892"
+               y="2.8363583"
+               fill="#8c8663"
+               width="0.41704005"
+               height="0.41704005"
+               id="rect47"
+               style="stroke-width:0.00254" />
+            <polygon
+               fill="#b8af82"
+               points="9417.97,417.974 9582.02,417.974 9659.67,340.463 9340.46,340.463 "
+               id="polygon47"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#80795b"
+               points="9582.02,417.974 9659.67,340.463 9659.67,659.674 9582.02,582.025 "
+               id="polygon48"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#5e5b43"
+               points="9582.02,582.025 9659.67,659.674 9340.46,659.674 9417.97,582.025 "
+               id="polygon49"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#9a916c"
+               points="9417.97,417.974 9417.97,582.025 9340.46,659.674 9340.46,340.463 "
+               id="polygon50"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <rect
+               id="connector10pin"
+               x="30.580996"
+               y="2.5523331"
+               fill="none"
+               width="0.98473763"
+               height="0.98473763"
+               style="stroke-width:0.00254" />
+            <rect
+               id="connector10terminal"
+               x="30.69174"
+               y="2.6458333"
+               fill="none"
+               width="0.76351637"
+               height="0.79809338"
+               style="stroke-width:0.00254" />
+            <rect
+               x="30.668119"
+               y="2.6394799"
+               fill="#8d8c8c"
+               width="0.81079596"
+               height="0.81079596"
+               id="rect51"
+               style="stroke-width:0.00254" />
+            <rect
+               x="30.864969"
+               y="2.8363583"
+               fill="#8c8663"
+               width="0.41704005"
+               height="0.41704005"
+               id="rect52"
+               style="stroke-width:0.00254" />
+            <polygon
+               fill="#b8af82"
+               points="10418,417.974 10582,417.974 10659.7,340.463 10340.5,340.463 "
+               id="polygon52"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#80795b"
+               points="10582,417.974 10659.7,340.463 10659.7,659.674 10582,582.025 "
+               id="polygon53"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#5e5b43"
+               points="10582,582.025 10659.7,659.674 10340.5,659.674 10418,582.025 "
+               id="polygon54"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#9a916c"
+               points="10418,417.974 10418,582.025 10340.5,659.674 10340.5,340.463 "
+               id="polygon55"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <rect
+               id="connector11pin"
+               x="33.120998"
+               y="2.5523331"
+               fill="none"
+               width="0.98473763"
+               height="0.98473763"
+               style="stroke-width:0.00254" />
+            <rect
+               id="connector11terminal"
+               x="33.231743"
+               y="2.6458333"
+               fill="none"
+               width="0.76351637"
+               height="0.79809338"
+               style="stroke-width:0.00254" />
+            <rect
+               x="33.208122"
+               y="2.6394799"
+               fill="#8d8c8c"
+               width="0.81079596"
+               height="0.81079596"
+               id="rect56"
+               style="stroke-width:0.00254" />
+            <rect
+               x="33.404972"
+               y="2.8363583"
+               fill="#8c8663"
+               width="0.41704005"
+               height="0.41704005"
+               id="rect57"
+               style="stroke-width:0.00254" />
+            <polygon
+               fill="#b8af82"
+               points="11418,417.974 11582,417.974 11659.7,340.463 11340.5,340.463 "
+               id="polygon57"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#80795b"
+               points="11582,417.974 11659.7,340.463 11659.7,659.674 11582,582.025 "
+               id="polygon58"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#5e5b43"
+               points="11582,582.025 11659.7,659.674 11340.5,659.674 11418,582.025 "
+               id="polygon59"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#9a916c"
+               points="11418,417.974 11418,582.025 11340.5,659.674 11340.5,340.463 "
+               id="polygon60"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <rect
+               id="connector12pin"
+               x="35.660992"
+               y="2.5523331"
+               fill="none"
+               width="0.98473763"
+               height="0.98473763"
+               style="stroke-width:0.00254" />
+            <rect
+               id="connector12terminal"
+               x="35.77174"
+               y="2.6458333"
+               fill="none"
+               width="0.76351637"
+               height="0.79809338"
+               style="stroke-width:0.00254" />
+            <rect
+               x="35.748119"
+               y="2.6394799"
+               fill="#8d8c8c"
+               width="0.81079596"
+               height="0.81079596"
+               id="rect61"
+               style="stroke-width:0.00254" />
+            <rect
+               x="35.944965"
+               y="2.8363583"
+               fill="#8c8663"
+               width="0.41704005"
+               height="0.41704005"
+               id="rect62"
+               style="stroke-width:0.00254" />
+            <polygon
+               fill="#b8af82"
+               points="12418,417.974 12582,417.974 12659.7,340.463 12340.5,340.463 "
+               id="polygon62"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#80795b"
+               points="12582,417.974 12659.7,340.463 12659.7,659.674 12582,582.025 "
+               id="polygon63"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#5e5b43"
+               points="12582,582.025 12659.7,659.674 12340.5,659.674 12418,582.025 "
+               id="polygon64"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#9a916c"
+               points="12418,417.974 12418,582.025 12340.5,659.674 12340.5,340.463 "
+               id="polygon65"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <rect
+               id="connector13pin"
+               x="38.200993"
+               y="2.5523331"
+               fill="none"
+               width="0.98473763"
+               height="0.98473763"
+               style="stroke-width:0.00254" />
+            <rect
+               id="connector13terminal"
+               x="38.311741"
+               y="2.6458333"
+               fill="none"
+               width="0.76351637"
+               height="0.79809338"
+               style="stroke-width:0.00254" />
+            <rect
+               x="38.28812"
+               y="2.6394799"
+               fill="#8d8c8c"
+               width="0.81079596"
+               height="0.81079596"
+               id="rect66"
+               style="stroke-width:0.00254" />
+            <rect
+               x="38.484966"
+               y="2.8363583"
+               fill="#8c8663"
+               width="0.41704005"
+               height="0.41704005"
+               id="rect67"
+               style="stroke-width:0.00254" />
+            <polygon
+               fill="#b8af82"
+               points="13418,417.974 13582,417.974 13659.7,340.463 13340.5,340.463 "
+               id="polygon67"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#80795b"
+               points="13582,417.974 13659.7,340.463 13659.7,659.674 13582,582.025 "
+               id="polygon68"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#5e5b43"
+               points="13582,582.025 13659.7,659.674 13340.5,659.674 13418,582.025 "
+               id="polygon69"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#9a916c"
+               points="13418,417.974 13418,582.025 13340.5,659.674 13340.5,340.463 "
+               id="polygon70"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <rect
+               id="connector14pin"
+               x="40.740993"
+               y="2.5523331"
+               fill="none"
+               width="0.98473763"
+               height="0.98473763"
+               style="stroke-width:0.00254" />
+            <rect
+               id="connector14terminal"
+               x="40.851742"
+               y="2.6458333"
+               fill="none"
+               width="0.76351637"
+               height="0.79809338"
+               style="stroke-width:0.00254" />
+            <rect
+               x="40.828114"
+               y="2.6394799"
+               fill="#8d8c8c"
+               width="0.81079596"
+               height="0.81079596"
+               id="rect71"
+               style="stroke-width:0.00254" />
+            <rect
+               x="41.024967"
+               y="2.8363583"
+               fill="#8c8663"
+               width="0.41704005"
+               height="0.41704005"
+               id="rect72"
+               style="stroke-width:0.00254" />
+            <polygon
+               fill="#b8af82"
+               points="14418,417.974 14582,417.974 14659.7,340.463 14340.5,340.463 "
+               id="polygon72"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#80795b"
+               points="14582,417.974 14659.7,340.463 14659.7,659.674 14582,582.025 "
+               id="polygon73"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#5e5b43"
+               points="14582,582.025 14659.7,659.674 14340.5,659.674 14418,582.025 "
+               id="polygon74"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#9a916c"
+               points="14418,417.974 14418,582.025 14340.5,659.674 14340.5,340.463 "
+               id="polygon75"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <rect
+               id="connector15pin"
+               x="43.280994"
+               y="2.5523331"
+               fill="none"
+               width="0.98473763"
+               height="0.98473763"
+               style="stroke-width:0.00254" />
+            <rect
+               id="connector15terminal"
+               x="43.391735"
+               y="2.6458333"
+               fill="none"
+               width="0.76351637"
+               height="0.79809338"
+               style="stroke-width:0.00254" />
+            <rect
+               x="43.368114"
+               y="2.6394799"
+               fill="#8d8c8c"
+               width="0.81079596"
+               height="0.81079596"
+               id="rect76"
+               style="stroke-width:0.00254" />
+            <rect
+               x="43.564968"
+               y="2.8363583"
+               fill="#8c8663"
+               width="0.41704005"
+               height="0.41704005"
+               id="rect77"
+               style="stroke-width:0.00254" />
+            <polygon
+               fill="#b8af82"
+               points="15418,417.974 15582,417.974 15659.7,340.463 15340.5,340.463 "
+               id="polygon77"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#80795b"
+               points="15582,417.974 15659.7,340.463 15659.7,659.674 15582,582.025 "
+               id="polygon78"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#5e5b43"
+               points="15582,582.025 15659.7,659.674 15340.5,659.674 15418,582.025 "
+               id="polygon79"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#9a916c"
+               points="15418,417.974 15418,582.025 15340.5,659.674 15340.5,340.463 "
+               id="polygon80"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <rect
+               id="connector16pin"
+               x="45.820995"
+               y="2.5523331"
+               fill="none"
+               width="0.98473763"
+               height="0.98473763"
+               style="stroke-width:0.00254" />
+            <rect
+               id="connector16terminal"
+               x="45.931736"
+               y="2.6458333"
+               fill="none"
+               width="0.76351637"
+               height="0.79809338"
+               style="stroke-width:0.00254" />
+            <rect
+               x="45.908115"
+               y="2.6394799"
+               fill="#8d8c8c"
+               width="0.81079596"
+               height="0.81079596"
+               id="rect81"
+               style="stroke-width:0.00254" />
+            <rect
+               x="46.104969"
+               y="2.8363583"
+               fill="#8c8663"
+               width="0.41704005"
+               height="0.41704005"
+               id="rect82"
+               style="stroke-width:0.00254" />
+            <polygon
+               fill="#b8af82"
+               points="16418,417.974 16582,417.974 16659.7,340.463 16340.5,340.463 "
+               id="polygon82"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#80795b"
+               points="16582,417.974 16659.7,340.463 16659.7,659.674 16582,582.025 "
+               id="polygon83"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#5e5b43"
+               points="16582,582.025 16659.7,659.674 16340.5,659.674 16418,582.025 "
+               id="polygon84"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#9a916c"
+               points="16418,417.974 16418,582.025 16340.5,659.674 16340.5,340.463 "
+               id="polygon85"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <rect
+               id="connector17pin"
+               x="48.360996"
+               y="2.5523331"
+               fill="none"
+               width="0.98473763"
+               height="0.98473763"
+               style="stroke-width:0.00254" />
+            <rect
+               id="connector17terminal"
+               x="48.471737"
+               y="2.6458333"
+               fill="none"
+               width="0.76351637"
+               height="0.79809338"
+               style="stroke-width:0.00254" />
+            <rect
+               x="48.448116"
+               y="2.6394799"
+               fill="#8d8c8c"
+               width="0.81079596"
+               height="0.81079596"
+               id="rect86"
+               style="stroke-width:0.00254" />
+            <rect
+               x="48.64497"
+               y="2.8363583"
+               fill="#8c8663"
+               width="0.41704005"
+               height="0.41704005"
+               id="rect87"
+               style="stroke-width:0.00254" />
+            <polygon
+               fill="#b8af82"
+               points="17418,417.974 17582,417.974 17659.7,340.463 17340.5,340.463 "
+               id="polygon87"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#80795b"
+               points="17582,417.974 17659.7,340.463 17659.7,659.674 17582,582.025 "
+               id="polygon88"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#5e5b43"
+               points="17582,582.025 17659.7,659.674 17340.5,659.674 17418,582.025 "
+               id="polygon89"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+            <polygon
+               fill="#9a916c"
+               points="17418,417.974 17418,582.025 17340.5,659.674 17340.5,340.463 "
+               id="polygon90"
+               transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          </g>
+          <rect
+             style="fill:#0080a3;fill-opacity:1;stroke:none;stroke-width:0.00100766"
+             id="rect1-7"
+             width="58.208332"
+             height="79.375"
+             x="-2.1564569"
+             y="36.601704"
+             transform="translate(1.2313603,-36.695203)" />
+          <rect
+             id="connector0pin-3"
+             x="5.1808763"
+             y="2.5523331"
+             fill="none"
+             width="0.98473763"
+             height="0.98473763"
+             style="stroke-width:0.00254" />
+          <rect
+             id="connector0terminal-9"
+             x="5.2916665"
+             y="2.6458333"
+             fill="none"
+             width="0.76351637"
+             height="0.79809338"
+             style="stroke-width:0.00254" />
+          <rect
+             x="5.2680268"
+             y="2.6394799"
+             fill="#8d8c8c"
+             width="0.81079596"
+             height="0.81079596"
+             id="rect1-1-7"
+             style="stroke-width:0.00254" />
+          <rect
+             x="5.4649034"
+             y="2.8363583"
+             fill="#8c8663"
+             width="0.41704005"
+             height="0.41704005"
+             id="rect2-0"
+             style="stroke-width:0.00254" />
+          <polygon
+             fill="#b8af82"
+             points="340.463,340.463 417.974,417.974 582.025,417.974 659.674,340.463 "
+             id="polygon2-8"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#80795b"
+             points="582.025,582.025 582.025,417.974 659.674,340.463 659.674,659.674 "
+             id="polygon3-9"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#5e5b43"
+             points="417.974,582.025 582.025,582.025 659.674,659.674 340.463,659.674 "
+             id="polygon4-7"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#9a916c"
+             points="340.463,340.463 417.974,417.974 417.974,582.025 340.463,659.674 "
+             id="polygon5-2"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <rect
+             id="connector1pin-0"
+             x="7.7208695"
+             y="2.5523331"
+             fill="none"
+             width="0.98473763"
+             height="0.98473763"
+             style="stroke-width:0.00254" />
+          <rect
+             id="connector1terminal-7"
+             x="7.8316636"
+             y="2.6458333"
+             fill="none"
+             width="0.76351637"
+             height="0.79809338"
+             style="stroke-width:0.00254" />
+          <rect
+             x="7.8080163"
+             y="2.6394799"
+             fill="#8d8c8c"
+             width="0.81079596"
+             height="0.81079596"
+             id="rect6-4"
+             style="stroke-width:0.00254" />
+          <rect
+             x="8.0048933"
+             y="2.8363583"
+             fill="#8c8663"
+             width="0.41704005"
+             height="0.41704005"
+             id="rect7-7"
+             style="stroke-width:0.00254" />
+          <polygon
+             fill="#b8af82"
+             points="1340.46,340.463 1417.97,417.974 1582.03,417.974 1659.67,340.463 "
+             id="polygon7-8"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#80795b"
+             points="1582.03,582.025 1582.03,417.974 1659.67,340.463 1659.67,659.674 "
+             id="polygon8-2"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#5e5b43"
+             points="1417.97,582.025 1582.03,582.025 1659.67,659.674 1340.46,659.674 "
+             id="polygon9-6"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#9a916c"
+             points="1340.46,340.463 1417.97,417.974 1417.97,582.025 1340.46,659.674 "
+             id="polygon10-9"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <rect
+             id="connector2pin-1"
+             x="10.260871"
+             y="2.5523331"
+             fill="none"
+             width="0.98473763"
+             height="0.98473763"
+             style="stroke-width:0.00254" />
+          <rect
+             id="connector2terminal-2"
+             x="10.371665"
+             y="2.6458333"
+             fill="none"
+             width="0.76351637"
+             height="0.79809338"
+             style="stroke-width:0.00254" />
+          <rect
+             x="10.348018"
+             y="2.6394799"
+             fill="#8d8c8c"
+             width="0.81079596"
+             height="0.81079596"
+             id="rect11-8"
+             style="stroke-width:0.00254" />
+          <rect
+             x="10.544894"
+             y="2.8363583"
+             fill="#8c8663"
+             width="0.41704005"
+             height="0.41704005"
+             id="rect12-5"
+             style="stroke-width:0.00254" />
+          <polygon
+             fill="#b8af82"
+             points="2340.46,340.463 2417.97,417.974 2582.03,417.974 2659.67,340.463 "
+             id="polygon12-2"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#80795b"
+             points="2582.03,582.025 2582.03,417.974 2659.67,340.463 2659.67,659.674 "
+             id="polygon13-6"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#5e5b43"
+             points="2417.97,582.025 2582.03,582.025 2659.67,659.674 2340.46,659.674 "
+             id="polygon14-5"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#9a916c"
+             points="2340.46,340.463 2417.97,417.974 2417.97,582.025 2340.46,659.674 "
+             id="polygon15-9"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <rect
+             id="connector3pin-0"
+             x="12.800872"
+             y="2.5523331"
+             fill="none"
+             width="0.98473763"
+             height="0.98473763"
+             style="stroke-width:0.00254" />
+          <rect
+             id="connector3terminal-3"
+             x="12.911666"
+             y="2.6458333"
+             fill="none"
+             width="0.76351637"
+             height="0.79809338"
+             style="stroke-width:0.00254" />
+          <rect
+             x="12.888019"
+             y="2.6394799"
+             fill="#8d8c8c"
+             width="0.81079596"
+             height="0.81079596"
+             id="rect16-0"
+             style="stroke-width:0.00254" />
+          <rect
+             x="13.084891"
+             y="2.8363583"
+             fill="#8c8663"
+             width="0.41704005"
+             height="0.41704005"
+             id="rect17-9"
+             style="stroke-width:0.00254" />
+          <polygon
+             fill="#b8af82"
+             points="3340.46,340.463 3417.97,417.974 3582.03,417.974 3659.67,340.463 "
+             id="polygon17-4"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#80795b"
+             points="3582.03,582.025 3582.03,417.974 3659.67,340.463 3659.67,659.674 "
+             id="polygon18-9"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#5e5b43"
+             points="3417.97,582.025 3582.03,582.025 3659.67,659.674 3340.46,659.674 "
+             id="polygon19-5"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#9a916c"
+             points="3340.46,340.463 3417.97,417.974 3417.97,582.025 3340.46,659.674 "
+             id="polygon20-3"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <rect
+             id="connector4pin-0"
+             x="15.340869"
+             y="2.5523331"
+             fill="none"
+             width="0.98473763"
+             height="0.98473763"
+             style="stroke-width:0.00254" />
+          <rect
+             id="connector4terminal-9"
+             x="15.451667"
+             y="2.6458333"
+             fill="none"
+             width="0.76351637"
+             height="0.79809338"
+             style="stroke-width:0.00254" />
+          <rect
+             x="15.42802"
+             y="2.6394799"
+             fill="#8d8c8c"
+             width="0.81079596"
+             height="0.81079596"
+             id="rect21-2"
+             style="stroke-width:0.00254" />
+          <rect
+             x="15.624892"
+             y="2.8363583"
+             fill="#8c8663"
+             width="0.41704005"
+             height="0.41704005"
+             id="rect22-6"
+             style="stroke-width:0.00254" />
+          <polygon
+             fill="#b8af82"
+             points="4340.46,340.463 4417.97,417.974 4582.02,417.974 4659.67,340.463 "
+             id="polygon22-5"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#80795b"
+             points="4582.02,582.025 4582.02,417.974 4659.67,340.463 4659.67,659.674 "
+             id="polygon23-7"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#5e5b43"
+             points="4417.97,582.025 4582.02,582.025 4659.67,659.674 4340.46,659.674 "
+             id="polygon24-2"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#9a916c"
+             points="4340.46,340.463 4417.97,417.974 4417.97,582.025 4340.46,659.674 "
+             id="polygon25-2"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <rect
+             id="connector5pin-5"
+             x="17.880869"
+             y="2.5523331"
+             fill="none"
+             width="0.98473763"
+             height="0.98473763"
+             style="stroke-width:0.00254" />
+          <rect
+             id="connector5terminal-4"
+             x="17.991663"
+             y="2.6458333"
+             fill="none"
+             width="0.76351637"
+             height="0.79809338"
+             style="stroke-width:0.00254" />
+          <rect
+             x="17.968016"
+             y="2.6394799"
+             fill="#8d8c8c"
+             width="0.81079596"
+             height="0.81079596"
+             id="rect26-9"
+             style="stroke-width:0.00254" />
+          <rect
+             x="18.164892"
+             y="2.8363583"
+             fill="#8c8663"
+             width="0.41704005"
+             height="0.41704005"
+             id="rect27-2"
+             style="stroke-width:0.00254" />
+          <polygon
+             fill="#b8af82"
+             points="5340.46,340.463 5417.97,417.974 5582.02,417.974 5659.67,340.463 "
+             id="polygon27-1"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#80795b"
+             points="5582.02,582.025 5582.02,417.974 5659.67,340.463 5659.67,659.674 "
+             id="polygon28-2"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#5e5b43"
+             points="5417.97,582.025 5582.02,582.025 5659.67,659.674 5340.46,659.674 "
+             id="polygon29-4"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#9a916c"
+             points="5340.46,340.463 5417.97,417.974 5417.97,582.025 5340.46,659.674 "
+             id="polygon30-1"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <rect
+             id="connector6pin-4"
+             x="20.42087"
+             y="2.5523331"
+             fill="none"
+             width="0.98473763"
+             height="0.98473763"
+             style="stroke-width:0.00254" />
+          <rect
+             id="connector6terminal-6"
+             x="20.531664"
+             y="2.6458333"
+             fill="none"
+             width="0.76351637"
+             height="0.79809338"
+             style="stroke-width:0.00254" />
+          <rect
+             x="20.508017"
+             y="2.6394799"
+             fill="#8d8c8c"
+             width="0.81079596"
+             height="0.81079596"
+             id="rect31-8"
+             style="stroke-width:0.00254" />
+          <rect
+             x="20.704893"
+             y="2.8363583"
+             fill="#8c8663"
+             width="0.41704005"
+             height="0.41704005"
+             id="rect32-5"
+             style="stroke-width:0.00254" />
+          <polygon
+             fill="#b8af82"
+             points="6340.46,340.463 6417.97,417.974 6582.02,417.974 6659.67,340.463 "
+             id="polygon32-0"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#80795b"
+             points="6582.02,582.025 6582.02,417.974 6659.67,340.463 6659.67,659.674 "
+             id="polygon33-3"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#5e5b43"
+             points="6417.97,582.025 6582.02,582.025 6659.67,659.674 6340.46,659.674 "
+             id="polygon34-3"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#9a916c"
+             points="6340.46,340.463 6417.97,417.974 6417.97,582.025 6340.46,659.674 "
+             id="polygon35-3"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <rect
+             id="connector7pin-9"
+             x="22.960871"
+             y="2.5523331"
+             fill="none"
+             width="0.98473763"
+             height="0.98473763"
+             style="stroke-width:0.00254" />
+          <rect
+             id="connector7terminal-7"
+             x="23.071665"
+             y="2.6458333"
+             fill="none"
+             width="0.76351637"
+             height="0.79809338"
+             style="stroke-width:0.00254" />
+          <rect
+             x="23.048018"
+             y="2.6394799"
+             fill="#8d8c8c"
+             width="0.81079596"
+             height="0.81079596"
+             id="rect36-3"
+             style="stroke-width:0.00254" />
+          <rect
+             x="23.244894"
+             y="2.8363583"
+             fill="#8c8663"
+             width="0.41704005"
+             height="0.41704005"
+             id="rect37-0"
+             style="stroke-width:0.00254" />
+          <polygon
+             fill="#b8af82"
+             points="7340.46,340.463 7417.97,417.974 7582.02,417.974 7659.67,340.463 "
+             id="polygon37-8"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#80795b"
+             points="7582.02,582.025 7582.02,417.974 7659.67,340.463 7659.67,659.674 "
+             id="polygon38-5"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#5e5b43"
+             points="7417.97,582.025 7582.02,582.025 7659.67,659.674 7340.46,659.674 "
+             id="polygon39-7"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#9a916c"
+             points="7340.46,340.463 7417.97,417.974 7417.97,582.025 7340.46,659.674 "
+             id="polygon40-8"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <rect
+             id="connector8pin-6"
+             x="25.500872"
+             y="2.5523331"
+             fill="none"
+             width="0.98473763"
+             height="0.98473763"
+             style="stroke-width:0.00254" />
+          <rect
+             id="connector8terminal-4"
+             x="25.611662"
+             y="2.6458333"
+             fill="none"
+             width="0.76351637"
+             height="0.79809338"
+             style="stroke-width:0.00254" />
+          <rect
+             x="25.588018"
+             y="2.6394799"
+             fill="#8d8c8c"
+             width="0.81079596"
+             height="0.81079596"
+             id="rect41-7"
+             style="stroke-width:0.00254" />
+          <rect
+             x="25.784891"
+             y="2.8363583"
+             fill="#8c8663"
+             width="0.41704005"
+             height="0.41704005"
+             id="rect42-3"
+             style="stroke-width:0.00254" />
+          <polygon
+             fill="#b8af82"
+             points="8340.46,340.463 8417.97,417.974 8582.02,417.974 8659.67,340.463 "
+             id="polygon42-9"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#80795b"
+             points="8582.02,582.025 8582.02,417.974 8659.67,340.463 8659.67,659.674 "
+             id="polygon43-0"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#5e5b43"
+             points="8417.97,582.025 8582.02,582.025 8659.67,659.674 8340.46,659.674 "
+             id="polygon44-5"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#9a916c"
+             points="8340.46,340.463 8417.97,417.974 8417.97,582.025 8340.46,659.674 "
+             id="polygon45-1"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <rect
+             id="connector9pin-7"
+             x="28.040869"
+             y="2.5523331"
+             fill="none"
+             width="0.98473763"
+             height="0.98473763"
+             style="stroke-width:0.00254" />
+          <rect
+             id="connector9terminal-2"
+             x="28.151663"
+             y="2.6458333"
+             fill="none"
+             width="0.76351637"
+             height="0.79809338"
+             style="stroke-width:0.00254" />
+          <rect
+             x="28.128016"
+             y="2.6394799"
+             fill="#8d8c8c"
+             width="0.81079596"
+             height="0.81079596"
+             id="rect46-7"
+             style="stroke-width:0.00254" />
+          <rect
+             x="28.324892"
+             y="2.8363583"
+             fill="#8c8663"
+             width="0.41704005"
+             height="0.41704005"
+             id="rect47-1"
+             style="stroke-width:0.00254" />
+          <polygon
+             fill="#b8af82"
+             points="9340.46,340.463 9417.97,417.974 9582.02,417.974 9659.67,340.463 "
+             id="polygon47-5"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#80795b"
+             points="9582.02,582.025 9582.02,417.974 9659.67,340.463 9659.67,659.674 "
+             id="polygon48-8"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#5e5b43"
+             points="9417.97,582.025 9582.02,582.025 9659.67,659.674 9340.46,659.674 "
+             id="polygon49-0"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#9a916c"
+             points="9340.46,340.463 9417.97,417.974 9417.97,582.025 9340.46,659.674 "
+             id="polygon50-4"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <rect
+             id="connector10pin-2"
+             x="30.580996"
+             y="2.5523331"
+             fill="none"
+             width="0.98473763"
+             height="0.98473763"
+             style="stroke-width:0.00254" />
+          <rect
+             id="connector10terminal-0"
+             x="30.69174"
+             y="2.6458333"
+             fill="none"
+             width="0.76351637"
+             height="0.79809338"
+             style="stroke-width:0.00254" />
+          <rect
+             x="30.668119"
+             y="2.6394799"
+             fill="#8d8c8c"
+             width="0.81079596"
+             height="0.81079596"
+             id="rect51-1"
+             style="stroke-width:0.00254" />
+          <rect
+             x="30.864969"
+             y="2.8363583"
+             fill="#8c8663"
+             width="0.41704005"
+             height="0.41704005"
+             id="rect52-0"
+             style="stroke-width:0.00254" />
+          <polygon
+             fill="#b8af82"
+             points="10340.5,340.463 10418,417.974 10582,417.974 10659.7,340.463 "
+             id="polygon52-8"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#80795b"
+             points="10582,582.025 10582,417.974 10659.7,340.463 10659.7,659.674 "
+             id="polygon53-9"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#5e5b43"
+             points="10418,582.025 10582,582.025 10659.7,659.674 10340.5,659.674 "
+             id="polygon54-2"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#9a916c"
+             points="10340.5,340.463 10418,417.974 10418,582.025 10340.5,659.674 "
+             id="polygon55-4"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <rect
+             id="connector11pin-2"
+             x="33.120998"
+             y="2.5523331"
+             fill="none"
+             width="0.98473763"
+             height="0.98473763"
+             style="stroke-width:0.00254" />
+          <rect
+             id="connector11terminal-7"
+             x="33.231743"
+             y="2.6458333"
+             fill="none"
+             width="0.76351637"
+             height="0.79809338"
+             style="stroke-width:0.00254" />
+          <rect
+             x="33.208122"
+             y="2.6394799"
+             fill="#8d8c8c"
+             width="0.81079596"
+             height="0.81079596"
+             id="rect56-6"
+             style="stroke-width:0.00254" />
+          <rect
+             x="33.404972"
+             y="2.8363583"
+             fill="#8c8663"
+             width="0.41704005"
+             height="0.41704005"
+             id="rect57-4"
+             style="stroke-width:0.00254" />
+          <polygon
+             fill="#b8af82"
+             points="11340.5,340.463 11418,417.974 11582,417.974 11659.7,340.463 "
+             id="polygon57-6"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#80795b"
+             points="11582,582.025 11582,417.974 11659.7,340.463 11659.7,659.674 "
+             id="polygon58-7"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#5e5b43"
+             points="11418,582.025 11582,582.025 11659.7,659.674 11340.5,659.674 "
+             id="polygon59-5"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#9a916c"
+             points="11340.5,340.463 11418,417.974 11418,582.025 11340.5,659.674 "
+             id="polygon60-8"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <rect
+             id="connector12pin-0"
+             x="35.660992"
+             y="2.5523331"
+             fill="none"
+             width="0.98473763"
+             height="0.98473763"
+             style="stroke-width:0.00254" />
+          <rect
+             id="connector12terminal-9"
+             x="35.77174"
+             y="2.6458333"
+             fill="none"
+             width="0.76351637"
+             height="0.79809338"
+             style="stroke-width:0.00254" />
+          <rect
+             x="35.748119"
+             y="2.6394799"
+             fill="#8d8c8c"
+             width="0.81079596"
+             height="0.81079596"
+             id="rect61-4"
+             style="stroke-width:0.00254" />
+          <rect
+             x="35.944965"
+             y="2.8363583"
+             fill="#8c8663"
+             width="0.41704005"
+             height="0.41704005"
+             id="rect62-1"
+             style="stroke-width:0.00254" />
+          <polygon
+             fill="#b8af82"
+             points="12340.5,340.463 12418,417.974 12582,417.974 12659.7,340.463 "
+             id="polygon62-5"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#80795b"
+             points="12582,582.025 12582,417.974 12659.7,340.463 12659.7,659.674 "
+             id="polygon63-5"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#5e5b43"
+             points="12418,582.025 12582,582.025 12659.7,659.674 12340.5,659.674 "
+             id="polygon64-5"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#9a916c"
+             points="12340.5,340.463 12418,417.974 12418,582.025 12340.5,659.674 "
+             id="polygon65-7"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <rect
+             id="connector13pin-0"
+             x="38.200993"
+             y="2.5523331"
+             fill="none"
+             width="0.98473763"
+             height="0.98473763"
+             style="stroke-width:0.00254" />
+          <rect
+             id="connector13terminal-8"
+             x="38.311741"
+             y="2.6458333"
+             fill="none"
+             width="0.76351637"
+             height="0.79809338"
+             style="stroke-width:0.00254" />
+          <rect
+             x="38.28812"
+             y="2.6394799"
+             fill="#8d8c8c"
+             width="0.81079596"
+             height="0.81079596"
+             id="rect66-9"
+             style="stroke-width:0.00254" />
+          <rect
+             x="38.484966"
+             y="2.8363583"
+             fill="#8c8663"
+             width="0.41704005"
+             height="0.41704005"
+             id="rect67-4"
+             style="stroke-width:0.00254" />
+          <polygon
+             fill="#b8af82"
+             points="13340.5,340.463 13418,417.974 13582,417.974 13659.7,340.463 "
+             id="polygon67-3"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#80795b"
+             points="13582,582.025 13582,417.974 13659.7,340.463 13659.7,659.674 "
+             id="polygon68-0"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#5e5b43"
+             points="13418,582.025 13582,582.025 13659.7,659.674 13340.5,659.674 "
+             id="polygon69-2"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#9a916c"
+             points="13340.5,340.463 13418,417.974 13418,582.025 13340.5,659.674 "
+             id="polygon70-1"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <rect
+             id="connector14pin-8"
+             x="40.740993"
+             y="2.5523331"
+             fill="none"
+             width="0.98473763"
+             height="0.98473763"
+             style="stroke-width:0.00254" />
+          <rect
+             id="connector14terminal-3"
+             x="40.851742"
+             y="2.6458333"
+             fill="none"
+             width="0.76351637"
+             height="0.79809338"
+             style="stroke-width:0.00254" />
+          <rect
+             x="40.828114"
+             y="2.6394799"
+             fill="#8d8c8c"
+             width="0.81079596"
+             height="0.81079596"
+             id="rect71-1"
+             style="stroke-width:0.00254" />
+          <rect
+             x="41.024967"
+             y="2.8363583"
+             fill="#8c8663"
+             width="0.41704005"
+             height="0.41704005"
+             id="rect72-1"
+             style="stroke-width:0.00254" />
+          <polygon
+             fill="#b8af82"
+             points="14340.5,340.463 14418,417.974 14582,417.974 14659.7,340.463 "
+             id="polygon72-7"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#80795b"
+             points="14582,582.025 14582,417.974 14659.7,340.463 14659.7,659.674 "
+             id="polygon73-3"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#5e5b43"
+             points="14418,582.025 14582,582.025 14659.7,659.674 14340.5,659.674 "
+             id="polygon74-3"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#9a916c"
+             points="14340.5,340.463 14418,417.974 14418,582.025 14340.5,659.674 "
+             id="polygon75-8"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <rect
+             id="connector15pin-2"
+             x="43.280994"
+             y="2.5523331"
+             fill="none"
+             width="0.98473763"
+             height="0.98473763"
+             style="stroke-width:0.00254" />
+          <rect
+             id="connector15terminal-6"
+             x="43.391735"
+             y="2.6458333"
+             fill="none"
+             width="0.76351637"
+             height="0.79809338"
+             style="stroke-width:0.00254" />
+          <rect
+             x="43.368114"
+             y="2.6394799"
+             fill="#8d8c8c"
+             width="0.81079596"
+             height="0.81079596"
+             id="rect76-7"
+             style="stroke-width:0.00254" />
+          <rect
+             x="43.564968"
+             y="2.8363583"
+             fill="#8c8663"
+             width="0.41704005"
+             height="0.41704005"
+             id="rect77-6"
+             style="stroke-width:0.00254" />
+          <polygon
+             fill="#b8af82"
+             points="15340.5,340.463 15418,417.974 15582,417.974 15659.7,340.463 "
+             id="polygon77-7"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#80795b"
+             points="15582,582.025 15582,417.974 15659.7,340.463 15659.7,659.674 "
+             id="polygon78-6"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#5e5b43"
+             points="15418,582.025 15582,582.025 15659.7,659.674 15340.5,659.674 "
+             id="polygon79-2"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#9a916c"
+             points="15340.5,340.463 15418,417.974 15418,582.025 15340.5,659.674 "
+             id="polygon80-1"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <rect
+             id="connector16pin-2"
+             x="45.820995"
+             y="2.5523331"
+             fill="none"
+             width="0.98473763"
+             height="0.98473763"
+             style="stroke-width:0.00254" />
+          <rect
+             id="connector16terminal-9"
+             x="45.931736"
+             y="2.6458333"
+             fill="none"
+             width="0.76351637"
+             height="0.79809338"
+             style="stroke-width:0.00254" />
+          <rect
+             x="45.908115"
+             y="2.6394799"
+             fill="#8d8c8c"
+             width="0.81079596"
+             height="0.81079596"
+             id="rect81-7"
+             style="stroke-width:0.00254" />
+          <rect
+             x="46.104969"
+             y="2.8363583"
+             fill="#8c8663"
+             width="0.41704005"
+             height="0.41704005"
+             id="rect82-0"
+             style="stroke-width:0.00254" />
+          <polygon
+             fill="#b8af82"
+             points="16340.5,340.463 16418,417.974 16582,417.974 16659.7,340.463 "
+             id="polygon82-1"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#80795b"
+             points="16582,582.025 16582,417.974 16659.7,340.463 16659.7,659.674 "
+             id="polygon83-2"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#5e5b43"
+             points="16418,582.025 16582,582.025 16659.7,659.674 16340.5,659.674 "
+             id="polygon84-5"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#9a916c"
+             points="16340.5,340.463 16418,417.974 16418,582.025 16340.5,659.674 "
+             id="polygon85-7"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <rect
+             id="connector17pin-0"
+             x="48.360996"
+             y="2.5523331"
+             fill="none"
+             width="0.98473763"
+             height="0.98473763"
+             style="stroke-width:0.00254" />
+          <rect
+             id="connector17terminal-6"
+             x="48.471737"
+             y="2.6458333"
+             fill="none"
+             width="0.76351637"
+             height="0.79809338"
+             style="stroke-width:0.00254" />
+          <rect
+             x="48.448116"
+             y="2.6394799"
+             fill="#8d8c8c"
+             width="0.81079596"
+             height="0.81079596"
+             id="rect86-5"
+             style="stroke-width:0.00254" />
+          <rect
+             x="48.64497"
+             y="2.8363583"
+             fill="#8c8663"
+             width="0.41704005"
+             height="0.41704005"
+             id="rect87-3"
+             style="stroke-width:0.00254" />
+          <polygon
+             fill="#b8af82"
+             points="17340.5,340.463 17418,417.974 17582,417.974 17659.7,340.463 "
+             id="polygon87-9"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#80795b"
+             points="17582,582.025 17582,417.974 17659.7,340.463 17659.7,659.674 "
+             id="polygon88-7"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#5e5b43"
+             points="17418,582.025 17582,582.025 17659.7,659.674 17340.5,659.674 "
+             id="polygon89-9"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+          <polygon
+             fill="#9a916c"
+             points="17340.5,340.463 17418,417.974 17418,582.025 17340.5,659.674 "
+             id="polygon90-2"
+             transform="matrix(0.00254,0,0,0.00254,4.4032479,1.7747045)" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
